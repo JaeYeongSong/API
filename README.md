@@ -1,6 +1,5 @@
 # API
 Tistory 블로그 Xsop - https://xsop.tistory.com  
-네이버 블로그 Xsop - https://blog.naver.com/xsop-blog
 
 API의 예제 코드를 업로드 하는 저장소입니다.  
 Slack API
